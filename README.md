@@ -49,5 +49,5 @@
 ### 데이터베이스
 - MySQL을 사용한 데이터 관리
 
-# 시연 영상
+## 시연 영상
 [동네26 시연 영상](https://www.youtube.com/watch?v=0CY4adrFFm4)
